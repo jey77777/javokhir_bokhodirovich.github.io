@@ -142,7 +142,7 @@ body {
 /* ---------- Page header (sub pages) ---------- */
 .page-header {
     background: linear-gradient(rgba(6, 9, 14, .82), rgba(6, 9, 14, .92)),
-                url(../img/carousel-1.jpg) center center no-repeat;
+                url(../img/carousel-1.jpg?v=2) center center no-repeat;
     background-size: cover;
     padding-top: 220px;
 }
